@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/csmajs/aaman009/lab-01---introduction-to-software-construction-tooling-Alamode89/c-echo.h
+iostream
+-
+
+/home/csmajs/aaman009/lab-01---introduction-to-software-construction-tooling-Alamode89/main2.cpp
+c-echo.h
+/home/csmajs/aaman009/lab-01---introduction-to-software-construction-tooling-Alamode89/c-echo.h
+

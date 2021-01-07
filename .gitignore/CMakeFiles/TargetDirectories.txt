@@ -1,0 +1,4 @@
+/home/csmajs/aaman009/lab-01---introduction-to-software-construction-tooling-Alamode89/CMakeFiles/rebuild_cache.dir
+/home/csmajs/aaman009/lab-01---introduction-to-software-construction-tooling-Alamode89/CMakeFiles/edit_cache.dir
+/home/csmajs/aaman009/lab-01---introduction-to-software-construction-tooling-Alamode89/CMakeFiles/c-echo.dir
+/home/csmajs/aaman009/lab-01---introduction-to-software-construction-tooling-Alamode89/CMakeFiles/area_calculator.dir
